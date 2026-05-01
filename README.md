@@ -1,4 +1,5 @@
 # EDS_CODES
+This repo store codes that i done in EDS course
 🎥 Project Demo Video
 
 
